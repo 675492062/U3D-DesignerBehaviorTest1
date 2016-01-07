@@ -1,0 +1,2366 @@
+{
+	"100001_0": {
+		"skill": 0,
+		"life": 5,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_1": {
+		"skill": 0,
+		"life": 10,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_2": {
+		"skill": 400102,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_3": {
+		"skill": 0,
+		"life": 0,
+		"attack": 20,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_4": {
+		"skill": 0,
+		"life": 0,
+		"attack": 25,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_5": {
+		"skill": 0,
+		"life": 0,
+		"attack": 30,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_6": {
+		"skill": 0,
+		"life": 0,
+		"attack": 35,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_7": {
+		"skill": 0,
+		"life": 0,
+		"attack": 40,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_8": {
+		"skill": 0,
+		"life": 0,
+		"attack": 45,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_9": {
+		"skill": 0,
+		"life": 0,
+		"attack": 50,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_10": {
+		"skill": 400103,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_11": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 60,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_12": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 65,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_13": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 70,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_14": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 75,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_15": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 80,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_16": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 85,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_17": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 90,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_18": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 95,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_19": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 100,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_20": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 105,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_21": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 110,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_22": {
+		"skill": 400104,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_23": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 5,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_24": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 5,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_25": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 5,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_26": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 5,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_27": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 5,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_28": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_29": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_30": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_31": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_32": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_33": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 5
+	},
+	"100001_34": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 5
+	},
+	"100001_35": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 5
+	},
+	"100001_36": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 5
+	},
+	"100001_37": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 5
+	},
+	"100001_38": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 5,
+		"tenacity": 0
+	},
+	"100001_39": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 5,
+		"tenacity": 0
+	},
+	"100001_40": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 5,
+		"tenacity": 0
+	},
+	"100001_41": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 5,
+		"tenacity": 0
+	},
+	"100001_42": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 5,
+		"tenacity": 0
+	},
+	"100001_43": {
+		"skill": 0,
+		"life": 50,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_44": {
+		"skill": 0,
+		"life": 150,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_45": {
+		"skill": 0,
+		"life": 250,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_46": {
+		"skill": 0,
+		"life": 350,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_47": {
+		"skill": 0,
+		"life": 450,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_48": {
+		"skill": 0,
+		"life": 550,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_49": {
+		"skill": 0,
+		"life": 650,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_50": {
+		"skill": 0,
+		"life": 750,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_51": {
+		"skill": 0,
+		"life": 850,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_52": {
+		"skill": 0,
+		"life": 950,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_53": {
+		"skill": 0,
+		"life": 0,
+		"attack": 20,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_54": {
+		"skill": 0,
+		"life": 0,
+		"attack": 40,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_55": {
+		"skill": 0,
+		"life": 0,
+		"attack": 60,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_56": {
+		"skill": 0,
+		"life": 0,
+		"attack": 80,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_57": {
+		"skill": 0,
+		"life": 0,
+		"attack": 100,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100001_58": {
+		"skill": 0,
+		"life": 0,
+		"attack": 120,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_0": {
+		"skill": 0,
+		"life": 0,
+		"attack": 5,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_1": {
+		"skill": 0,
+		"life": 0,
+		"attack": 10,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_2": {
+		"skill": 400302,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_3": {
+		"skill": 0,
+		"life": 0,
+		"attack": 20,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_4": {
+		"skill": 0,
+		"life": 0,
+		"attack": 25,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_5": {
+		"skill": 0,
+		"life": 0,
+		"attack": 30,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_6": {
+		"skill": 0,
+		"life": 0,
+		"attack": 35,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_7": {
+		"skill": 0,
+		"life": 0,
+		"attack": 40,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_8": {
+		"skill": 0,
+		"life": 0,
+		"attack": 45,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_9": {
+		"skill": 0,
+		"life": 0,
+		"attack": 50,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_10": {
+		"skill": 400303,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_11": {
+		"skill": 0,
+		"life": 0,
+		"attack": 60,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_12": {
+		"skill": 0,
+		"life": 0,
+		"attack": 65,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_13": {
+		"skill": 0,
+		"life": 0,
+		"attack": 70,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_14": {
+		"skill": 0,
+		"life": 0,
+		"attack": 75,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_15": {
+		"skill": 0,
+		"life": 0,
+		"attack": 80,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_16": {
+		"skill": 0,
+		"life": 0,
+		"attack": 85,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_17": {
+		"skill": 0,
+		"life": 0,
+		"attack": 90,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_18": {
+		"skill": 0,
+		"life": 0,
+		"attack": 95,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_19": {
+		"skill": 0,
+		"life": 0,
+		"attack": 100,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_20": {
+		"skill": 0,
+		"life": 0,
+		"attack": 105,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_21": {
+		"skill": 0,
+		"life": 0,
+		"attack": 110,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_22": {
+		"skill": 400304,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_23": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_24": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_25": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_26": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_27": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_28": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_29": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 5,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_30": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_31": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_32": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_33": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_34": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_35": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_36": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_37": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_38": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_39": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_40": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_41": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_42": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_43": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_44": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_45": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_46": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_47": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_48": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_49": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_50": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_51": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_52": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_53": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_54": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_55": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_56": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_57": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100003_58": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_0": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 10,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_1": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 20,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_2": {
+		"skill": 401302,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_3": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 30,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_4": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 40,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_5": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 50,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_6": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 60,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_7": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 70,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_8": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 80,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_9": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 90,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_10": {
+		"skill": 401303,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_11": {
+		"skill": 0,
+		"life": 0,
+		"attack": 60,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_12": {
+		"skill": 0,
+		"life": 0,
+		"attack": 65,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_13": {
+		"skill": 0,
+		"life": 0,
+		"attack": 70,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_14": {
+		"skill": 0,
+		"life": 0,
+		"attack": 75,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_15": {
+		"skill": 0,
+		"life": 0,
+		"attack": 80,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_16": {
+		"skill": 0,
+		"life": 0,
+		"attack": 85,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_17": {
+		"skill": 0,
+		"life": 0,
+		"attack": 90,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_18": {
+		"skill": 0,
+		"life": 0,
+		"attack": 95,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_19": {
+		"skill": 0,
+		"life": 0,
+		"attack": 100,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_20": {
+		"skill": 0,
+		"life": 0,
+		"attack": 105,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_21": {
+		"skill": 0,
+		"life": 0,
+		"attack": 110,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_22": {
+		"skill": 401304,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_23": {
+		"skill": 0,
+		"life": 90,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_24": {
+		"skill": 0,
+		"life": 100,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_25": {
+		"skill": 0,
+		"life": 110,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_26": {
+		"skill": 0,
+		"life": 120,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_27": {
+		"skill": 0,
+		"life": 130,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_28": {
+		"skill": 0,
+		"life": 140,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_29": {
+		"skill": 0,
+		"life": 150,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_30": {
+		"skill": 0,
+		"life": 160,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_31": {
+		"skill": 0,
+		"life": 170,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_32": {
+		"skill": 0,
+		"life": 180,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_33": {
+		"skill": 0,
+		"life": 190,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_34": {
+		"skill": 0,
+		"life": 200,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_35": {
+		"skill": 0,
+		"life": 210,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_36": {
+		"skill": 0,
+		"life": 220,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_37": {
+		"skill": 0,
+		"life": 230,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_38": {
+		"skill": 0,
+		"life": 240,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_39": {
+		"skill": 0,
+		"life": 250,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_40": {
+		"skill": 0,
+		"life": 260,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_41": {
+		"skill": 0,
+		"life": 270,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_42": {
+		"skill": 0,
+		"life": 280,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_43": {
+		"skill": 0,
+		"life": 290,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_44": {
+		"skill": 0,
+		"life": 300,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_45": {
+		"skill": 0,
+		"life": 310,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_46": {
+		"skill": 0,
+		"life": 320,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_47": {
+		"skill": 0,
+		"life": 330,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_48": {
+		"skill": 0,
+		"life": 340,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_49": {
+		"skill": 0,
+		"life": 350,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_50": {
+		"skill": 0,
+		"life": 360,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_51": {
+		"skill": 0,
+		"life": 370,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_52": {
+		"skill": 0,
+		"life": 380,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100013_53": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100013_54": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100013_55": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100013_56": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100013_57": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100013_58": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 10
+	},
+	"100017_0": {
+		"skill": 0,
+		"life": 0,
+		"attack": 5,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_1": {
+		"skill": 0,
+		"life": 0,
+		"attack": 10,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_2": {
+		"skill": 401702,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_3": {
+		"skill": 0,
+		"life": 0,
+		"attack": 20,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_4": {
+		"skill": 0,
+		"life": 0,
+		"attack": 25,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_5": {
+		"skill": 0,
+		"life": 0,
+		"attack": 30,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_6": {
+		"skill": 0,
+		"life": 0,
+		"attack": 35,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_7": {
+		"skill": 0,
+		"life": 0,
+		"attack": 40,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_8": {
+		"skill": 0,
+		"life": 0,
+		"attack": 45,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_9": {
+		"skill": 0,
+		"life": 0,
+		"attack": 50,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_10": {
+		"skill": 401703,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_11": {
+		"skill": 0,
+		"life": 0,
+		"attack": 60,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_12": {
+		"skill": 0,
+		"life": 0,
+		"attack": 65,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_13": {
+		"skill": 0,
+		"life": 0,
+		"attack": 70,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_14": {
+		"skill": 0,
+		"life": 0,
+		"attack": 75,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_15": {
+		"skill": 0,
+		"life": 0,
+		"attack": 80,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_16": {
+		"skill": 0,
+		"life": 0,
+		"attack": 85,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_17": {
+		"skill": 0,
+		"life": 0,
+		"attack": 90,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_18": {
+		"skill": 0,
+		"life": 0,
+		"attack": 95,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_19": {
+		"skill": 0,
+		"life": 0,
+		"attack": 100,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_20": {
+		"skill": 0,
+		"life": 0,
+		"attack": 105,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_21": {
+		"skill": 0,
+		"life": 0,
+		"attack": 110,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_22": {
+		"skill": 401704,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_23": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_24": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_25": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_26": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_27": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 10,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_28": {
+		"skill": 0,
+		"life": 145,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_29": {
+		"skill": 0,
+		"life": 150,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_30": {
+		"skill": 0,
+		"life": 155,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_31": {
+		"skill": 0,
+		"life": 160,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_32": {
+		"skill": 0,
+		"life": 165,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_33": {
+		"skill": 0,
+		"life": 170,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_34": {
+		"skill": 0,
+		"life": 175,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_35": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_36": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_37": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_38": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_39": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_40": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_41": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_42": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_43": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_44": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_45": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_46": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_47": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_48": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_49": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_50": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 20,
+		"critical": 0,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_51": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_52": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_53": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_54": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_55": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_56": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_57": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"100017_58": {
+		"skill": 0,
+		"life": 0,
+		"attack": 0,
+		"defence": 0,
+		"hit": 0,
+		"critical": 10,
+		"dodge": 0,
+		"tenacity": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

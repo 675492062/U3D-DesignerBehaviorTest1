@@ -1,0 +1,146 @@
+{
+	"700001": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 20,
+		"domain2_max": 100,
+		"domain3_max": 149,
+		"domain4_max": 150,
+		"step": 5
+	},
+	"700002": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700003": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700004": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700005": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700006": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700007": {
+		"equip_level": 1,
+		"attribute_type": 15,
+		"domain1_min": 5,
+		"domain1_max": 35,
+		"domain2_max": 65,
+		"domain3_max": 80,
+		"domain4_max": 80,
+		"step": 3
+	},
+	"700008": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 40,
+		"domain2_max": 200,
+		"domain3_max": 298,
+		"domain4_max": 300,
+		"step": 5
+	},
+	"700009": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"700010": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"700011": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"700012": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"700013": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"700014": {
+		"equip_level": 10,
+		"attribute_type": 15,
+		"domain1_min": 10,
+		"domain1_max": 70,
+		"domain2_max": 130,
+		"domain3_max": 160,
+		"domain4_max": 160,
+		"step": 3
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

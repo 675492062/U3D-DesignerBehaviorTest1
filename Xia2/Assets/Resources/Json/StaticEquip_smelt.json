@@ -1,0 +1,807 @@
+{
+	"725001": {
+		"equipid": 650001,
+		"name": "夏侯惇刀1",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725002": {
+		"equipid": 650002,
+		"name": "夏侯惇刀2",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725003": {
+		"equipid": 650003,
+		"name": "夏侯惇刀3",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725004": {
+		"equipid": 650004,
+		"name": "貂蝉扇子",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725005": {
+		"equipid": 650005,
+		"name": "太史慈武器",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725006": {
+		"equipid": 650006,
+		"name": "张飞长矛",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725007": {
+		"equipid": 650007,
+		"name": "测试胸甲",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725008": {
+		"equipid": 650008,
+		"name": "测试护腿",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725009": {
+		"equipid": 650009,
+		"name": "测试手套",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725010": {
+		"equipid": 650010,
+		"name": "测试靴子",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725011": {
+		"equipid": 650011,
+		"name": "测试饰品",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725012": {
+		"equipid": 650012,
+		"name": "锈铁刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725013": {
+		"equipid": 650013,
+		"name": "赤铁刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725014": {
+		"equipid": 650014,
+		"name": "大铁刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725015": {
+		"equipid": 650015,
+		"name": "迟钝虎牙刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725016": {
+		"equipid": 650016,
+		"name": "迟钝柳叶刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725017": {
+		"equipid": 650017,
+		"name": "迟钝裂肉刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725018": {
+		"equipid": 650018,
+		"name": "初级灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725019": {
+		"equipid": 650019,
+		"name": "精铁虎牙刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725020": {
+		"equipid": 650020,
+		"name": "元日狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725021": {
+		"equipid": 650021,
+		"name": "烈焰狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725022": {
+		"equipid": 650022,
+		"name": "彩结狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725023": {
+		"equipid": 650023,
+		"name": "先祖狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725024": {
+		"equipid": 650024,
+		"name": "青郁狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725025": {
+		"equipid": 650025,
+		"name": "凝冰狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725026": {
+		"equipid": 650026,
+		"name": "冥蛇狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725027": {
+		"equipid": 650027,
+		"name": "落月狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725028": {
+		"equipid": 650028,
+		"name": "引露狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725029": {
+		"equipid": 650029,
+		"name": "苍松狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725030": {
+		"equipid": 650030,
+		"name": "紫阳狮头刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725031": {
+		"equipid": 650031,
+		"name": "虎牙刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725032": {
+		"equipid": 650032,
+		"name": "柳叶刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725033": {
+		"equipid": 650033,
+		"name": "裂肉刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725034": {
+		"equipid": 650034,
+		"name": "次级灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725035": {
+		"equipid": 650035,
+		"name": "精钢柳叶刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725036": {
+		"equipid": 650036,
+		"name": "辟寒刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725037": {
+		"equipid": 650037,
+		"name": "裂骨刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725038": {
+		"equipid": 650038,
+		"name": "乌霜刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725039": {
+		"equipid": 650039,
+		"name": "紫荆刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725040": {
+		"equipid": 650040,
+		"name": "晶莹灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725041": {
+		"equipid": 650041,
+		"name": "贪狼辟寒刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725042": {
+		"equipid": 650042,
+		"name": "元日赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725043": {
+		"equipid": 650043,
+		"name": "烈焰赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725044": {
+		"equipid": 650044,
+		"name": "彩结赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725045": {
+		"equipid": 650045,
+		"name": "先祖赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725046": {
+		"equipid": 650046,
+		"name": "青郁赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725047": {
+		"equipid": 650047,
+		"name": "凝冰赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725048": {
+		"equipid": 650048,
+		"name": "冥蛇赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725049": {
+		"equipid": 650049,
+		"name": "落月赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725050": {
+		"equipid": 650050,
+		"name": "引露赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725051": {
+		"equipid": 650051,
+		"name": "苍松赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725052": {
+		"equipid": 650052,
+		"name": "紫阳赤风刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725053": {
+		"equipid": 650053,
+		"name": "黑狼刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725054": {
+		"equipid": 650054,
+		"name": "凤纹刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725055": {
+		"equipid": 650055,
+		"name": "天霜刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725056": {
+		"equipid": 650056,
+		"name": "黑曜刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725057": {
+		"equipid": 650057,
+		"name": "强效灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725058": {
+		"equipid": 650058,
+		"name": "修罗裂骨刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725059": {
+		"equipid": 650059,
+		"name": "吞日刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725060": {
+		"equipid": 650060,
+		"name": "挂日刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725061": {
+		"equipid": 650061,
+		"name": "八卦刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725062": {
+		"equipid": 650062,
+		"name": "半月刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725063": {
+		"equipid": 650063,
+		"name": "铁纹刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725064": {
+		"equipid": 650064,
+		"name": "完美灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725065": {
+		"equipid": 650065,
+		"name": "璀璨灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725066": {
+		"equipid": 650066,
+		"name": "方正灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725067": {
+		"equipid": 650067,
+		"name": "无暇灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725068": {
+		"equipid": 650068,
+		"name": "星芒灵能刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725069": {
+		"equipid": 650069,
+		"name": "玄武黑狼刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725070": {
+		"equipid": 650070,
+		"name": "朱雀凤纹刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725071": {
+		"equipid": 650071,
+		"name": "灵虚将剑",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725072": {
+		"equipid": 650072,
+		"name": "麒麟亮刃",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725073": {
+		"equipid": 650073,
+		"name": "碎月帝刃",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725074": {
+		"equipid": 650074,
+		"name": "浮光踏燕刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725075": {
+		"equipid": 650075,
+		"name": "元日碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725076": {
+		"equipid": 650076,
+		"name": "烈焰碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725077": {
+		"equipid": 650077,
+		"name": "彩结碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725078": {
+		"equipid": 650078,
+		"name": "先祖碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725079": {
+		"equipid": 650079,
+		"name": "青郁碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725080": {
+		"equipid": 650080,
+		"name": "凝冰碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725081": {
+		"equipid": 650081,
+		"name": "冥蛇碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725082": {
+		"equipid": 650082,
+		"name": "落月碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725083": {
+		"equipid": 650083,
+		"name": "引露碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725084": {
+		"equipid": 650084,
+		"name": "苍松碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725085": {
+		"equipid": 650085,
+		"name": "紫阳碎云刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725086": {
+		"equipid": 650086,
+		"name": "精·灵虚将剑",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725087": {
+		"equipid": 650087,
+		"name": "精·麒麟亮刃",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725088": {
+		"equipid": 650088,
+		"name": "精·碎月帝刃",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"725089": {
+		"equipid": 650089,
+		"name": "精·浮光踏燕刀",
+		"material1": 510005,
+		"material2": 510005,
+		"material3": 510005,
+		"material4": 510005,
+		"material5": 510005
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

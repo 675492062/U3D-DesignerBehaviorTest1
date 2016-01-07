@@ -1,0 +1,51 @@
+{
+	"1": {
+		"name": "无名",
+		"exp": 5,
+		"hero_level": 1,
+		"attribute_type1": 1,
+		"attribute_num1": 5,
+		"attribute_type2": 2,
+		"attribute_num2": 5
+	},
+	"2": {
+		"name": "小成",
+		"exp": 10,
+		"hero_level": 2,
+		"attribute_type1": 1,
+		"attribute_num1": 5,
+		"attribute_type2": 2,
+		"attribute_num2": 5
+	},
+	"3": {
+		"name": "大成",
+		"exp": 20,
+		"hero_level": 3,
+		"attribute_type1": 1,
+		"attribute_num1": 5,
+		"attribute_type2": 2,
+		"attribute_num2": 5
+	},
+	"4": {
+		"name": "纯青",
+		"exp": 30,
+		"hero_level": 4,
+		"attribute_type1": 1,
+		"attribute_num1": 5,
+		"attribute_type2": 2,
+		"attribute_num2": 5
+	},
+	"5": {
+		"name": "奇才",
+		"exp": 50,
+		"hero_level": 5,
+		"attribute_type1": 1,
+		"attribute_num1": 5,
+		"attribute_type2": 2,
+		"attribute_num2": 5
+	},
+	"-1": {
+		"time": "2014-10-29[18:11:39]",
+		"version": "1.0.0"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"880001": {
+		"name": 1,
+		"per_combo": 20,
+		"sum_combo": 1000,
+		"buff": 5,
+		"damp": 0,
+		"buffer": 2
+	},
+	"880002": {
+		"name": 2,
+		"per_combo": 20,
+		"sum_combo": 1000,
+		"buff": 10,
+		"damp": 1,
+		"buffer": 2
+	},
+	"880003": {
+		"name": 3,
+		"per_combo": 20,
+		"sum_combo": 1000,
+		"buff": 15,
+		"damp": 2,
+		"buffer": 2
+	},
+	"880004": {
+		"name": 4,
+		"per_combo": 20,
+		"sum_combo": 1000,
+		"buff": 20,
+		"damp": 3,
+		"buffer": 2
+	},
+	"880005": {
+		"name": 5,
+		"per_combo": 20,
+		"sum_combo": 1000,
+		"buff": 25,
+		"damp": 4,
+		"buffer": 2
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

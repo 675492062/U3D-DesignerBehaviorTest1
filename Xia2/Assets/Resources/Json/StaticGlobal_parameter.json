@@ -1,0 +1,522 @@
+{
+	"850001": {
+		"describe": "强化等级可超出战队多少等级",
+		"parameter": 10
+	},
+	"850002": {
+		"describe": "开启第1个英雄的战队等级",
+		"parameter": 0
+	},
+	"850003": {
+		"describe": "开启第2个英雄的战队等级",
+		"parameter": 0
+	},
+	"850004": {
+		"describe": "开启第3个英雄的战队等级",
+		"parameter": 0
+	},
+	"850005": {
+		"describe": "开启第4个英雄的战队等级",
+		"parameter": 10
+	},
+	"850006": {
+		"describe": "开启第5个英雄的战队等级",
+		"parameter": 15
+	},
+	"850007": {
+		"describe": "开启第6个英雄的战队等级",
+		"parameter": 30
+	},
+	"850008": {
+		"describe": "开启第7个英雄的战队等级",
+		"parameter": 35
+	},
+	"850009": {
+		"describe": "开启第8个英雄的战队等级",
+		"parameter": 40
+	},
+	"850010": {
+		"describe": "开启第9个英雄的战队等级",
+		"parameter": 45
+	},
+	"850011": {
+		"describe": "玩家战队每间隔多少秒回复一次体力",
+		"parameter": 300
+	},
+	"850012": {
+		"describe": "玩家购买一次体力所回复的体力值",
+		"parameter": 60
+	},
+	"850013": {
+		"describe": "玩家购买一次银两所购得的银两数",
+		"parameter": 100000
+	},
+	"850014": {
+		"describe": "玩家战队每间隔多少秒回复一次技能点",
+		"parameter": 300
+	},
+	"850015": {
+		"describe": "玩家购买一次技能点所购得的技能点数",
+		"parameter": 10
+	},
+	"850016": {
+		"describe": "副本星级——3星判定条件:通关时长多少秒以内",
+		"parameter": 59
+	},
+	"850017": {
+		"describe": "副本星级——3星判定条件:受击打多少次以内",
+		"parameter": 5
+	},
+	"850018": {
+		"describe": "副本星级——2星判定条件:通关时长多少秒以内",
+		"parameter": 100
+	},
+	"850019": {
+		"describe": "副本星级——2星判定条件:受击打多少次以内",
+		"parameter": 8
+	},
+	"850020": {
+		"describe": "战队升级时，系统奖励玩家的体力值",
+		"parameter": 50
+	},
+	"850021": {
+		"describe": "银两抽卡一次价格",
+		"parameter": 10000
+	},
+	"850022": {
+		"describe": "银两抽卡十次价格（十连抽）",
+		"parameter": 90000
+	},
+	"850023": {
+		"describe": "元宝抽卡一次价格",
+		"parameter": 100
+	},
+	"850024": {
+		"describe": "元宝抽卡十次价格（十连抽）",
+		"parameter": 900
+	},
+	"850025": {
+		"describe": "免费银两抽卡时间间隔（秒）",
+		"parameter": 600
+	},
+	"850026": {
+		"describe": "免费元宝抽卡时间间隔（秒）",
+		"parameter": 172800
+	},
+	"850027": {
+		"describe": "每日免费银两抽卡次数",
+		"parameter": 5
+	},
+	"850028": {
+		"describe": "普通商店刷新时间1",
+		"parameter": 9
+	},
+	"850029": {
+		"describe": "普通商店刷新时间2",
+		"parameter": 12
+	},
+	"850030": {
+		"describe": "普通商店刷新时间3",
+		"parameter": 18
+	},
+	"850031": {
+		"describe": "普通商店刷新时间4",
+		"parameter": 21
+	},
+	"850032": {
+		"describe": "竞技场商店刷新时间",
+		"parameter": 21
+	},
+	"850033": {
+		"describe": "公会商店刷新时间",
+		"parameter": 21
+	},
+	"850034": {
+		"describe": "预留商店刷新时间1",
+		"parameter": 21
+	},
+	"850035": {
+		"describe": "预留商店刷新时间2",
+		"parameter": 21
+	},
+	"850036": {
+		"describe": "预留商店刷新时间3",
+		"parameter": 21
+	},
+	"850037": {
+		"describe": "预留商店刷新时间4",
+		"parameter": 21
+	},
+	"850038": {
+		"describe": "预留商店刷新时间5",
+		"parameter": 21
+	},
+	"850039": {
+		"describe": "预留商店刷新时间6",
+		"parameter": 21
+	},
+	"850040": {
+		"describe": "预留商店刷新时间7",
+		"parameter": 21
+	},
+	"850041": {
+		"describe": "预留商店刷新时间8",
+		"parameter": 21
+	},
+	"850042": {
+		"describe": "预留商店刷新时间9",
+		"parameter": 21
+	},
+	"850043": {
+		"describe": "预留商店刷新时间10",
+		"parameter": 21
+	},
+	"850044": {
+		"describe": "每日进度刷新时间",
+		"parameter": 5
+	},
+	"850045": {
+		"describe": "竞技场每日挑战次数",
+		"parameter": 8
+	},
+	"850046": {
+		"describe": "竞技场挑战CD（秒）",
+		"parameter": 300
+	},
+	"850047": {
+		"describe": "竞技场CD清0价格",
+		"parameter": 5
+	},
+	"850048": {
+		"describe": "竞技场开启等级",
+		"parameter": 15
+	},
+	"850049": {
+		"describe": "预留XXX开启等级",
+		"parameter": 100
+	},
+	"850050": {
+		"describe": "预留XXX开启等级",
+		"parameter": 101
+	},
+	"850051": {
+		"describe": "预留XXX开启等级",
+		"parameter": 102
+	},
+	"850052": {
+		"describe": "预留XXX开启等级",
+		"parameter": 103
+	},
+	"850053": {
+		"describe": "预留XXX开启等级",
+		"parameter": 104
+	},
+	"850054": {
+		"describe": "预留XXX开启等级",
+		"parameter": 105
+	},
+	"850055": {
+		"describe": "预留XXX开启等级",
+		"parameter": 106
+	},
+	"850056": {
+		"describe": "预留XXX开启等级",
+		"parameter": 107
+	},
+	"850057": {
+		"describe": "预留XXX开启等级",
+		"parameter": 108
+	},
+	"850058": {
+		"describe": "预留XXX开启等级",
+		"parameter": 109
+	},
+	"850059": {
+		"describe": "预留XXX开启等级",
+		"parameter": 110
+	},
+	"850060": {
+		"describe": "预留XXX开启等级",
+		"parameter": 111
+	},
+	"850061": {
+		"describe": "预留XXX开启等级",
+		"parameter": 112
+	},
+	"850062": {
+		"describe": "预留XXX开启等级",
+		"parameter": 113
+	},
+	"850063": {
+		"describe": "预留XXX开启等级",
+		"parameter": 114
+	},
+	"850064": {
+		"describe": "预留XXX开启等级",
+		"parameter": 115
+	},
+	"850065": {
+		"describe": "预留XXX开启等级",
+		"parameter": 116
+	},
+	"850066": {
+		"describe": "预留XXX开启等级",
+		"parameter": 117
+	},
+	"850067": {
+		"describe": "预留XXX开启等级",
+		"parameter": 118
+	},
+	"850068": {
+		"describe": "预留XXX开启等级",
+		"parameter": 119
+	},
+	"850069": {
+		"describe": "预留XXX开启等级",
+		"parameter": 120
+	},
+	"850070": {
+		"describe": "预留XXX开启等级",
+		"parameter": 121
+	},
+	"850071": {
+		"describe": "预留",
+		"parameter": 0
+	},
+	"850072": {
+		"describe": "竞技场ai翻滚血量1",
+		"parameter": 90
+	},
+	"850073": {
+		"describe": "竞技场ai翻滚血量2",
+		"parameter": 80
+	},
+	"850074": {
+		"describe": "竞技场ai翻滚血量3",
+		"parameter": 70
+	},
+	"850075": {
+		"describe": "竞技场ai翻滚血量4",
+		"parameter": 60
+	},
+	"850076": {
+		"describe": "竞技场ai翻滚血量5",
+		"parameter": 50
+	},
+	"850077": {
+		"describe": "竞技场ai翻滚血量6",
+		"parameter": 40
+	},
+	"850078": {
+		"describe": "竞技场ai翻滚血量7",
+		"parameter": 30
+	},
+	"850079": {
+		"describe": "竞技场ai翻滚血量8",
+		"parameter": 20
+	},
+	"850080": {
+		"describe": "竞技场ai翻滚血量9",
+		"parameter": 10
+	},
+	"850081": {
+		"describe": "竞技场历史最高排名奖励运算公式参数1",
+		"parameter": 0.0005
+	},
+	"850082": {
+		"describe": "竞技场历史最高排名奖励运算公式参数2",
+		"parameter": -1.2331
+	},
+	"850083": {
+		"describe": "硬直护盾回复CD(秒)",
+		"parameter": 5
+	},
+	"850084": {
+		"describe": "竞技场单次挑战胜利奖励竞技币数量",
+		"parameter": 5
+	},
+	"850085": {
+		"describe": "竞技场单次挑战失败奖励竞技币数量",
+		"parameter": 1
+	},
+	"850086": {
+		"describe": "竞技场断线重连时间（秒）",
+		"parameter": 120
+	},
+	"850087": {
+		"describe": "竞技场历史最高排名奖励运算公式参数3",
+		"parameter": 760.23
+	},
+	"850088": {
+		"describe": "竞技场历史最高排名奖励获取的最低排名（此排名以下，没有历史最高排名奖励）",
+		"parameter": 1200
+	},
+	"850089": {
+		"describe": "战队等级上限",
+		"parameter": 60
+	},
+	"850090": {
+		"describe": "战斗力系数——血魂生命总值",
+		"parameter": 1
+	},
+	"850091": {
+		"describe": "战斗力系数——血魂攻击力总值",
+		"parameter": 10
+	},
+	"850092": {
+		"describe": "战斗力系数——血魂防御总值",
+		"parameter": 1.12
+	},
+	"850093": {
+		"describe": "战斗力系数——血魂暴击等级",
+		"parameter": 3
+	},
+	"850094": {
+		"describe": "战斗力系数——血魂命中等级",
+		"parameter": 3
+	},
+	"850095": {
+		"describe": "战斗力系数——血魂闪避等级",
+		"parameter": 3
+	},
+	"850096": {
+		"describe": "战斗力系数——血魂韧性等级",
+		"parameter": 3
+	},
+	"850097": {
+		"describe": "战斗力系数——血魂等级",
+		"parameter": 10
+	},
+	"850098": {
+		"describe": "战斗力系数——血魂印记1",
+		"parameter": 5
+	},
+	"850099": {
+		"describe": "战斗力系数——血魂印记2",
+		"parameter": 5
+	},
+	"850100": {
+		"describe": "战斗力系数——血魂印记3",
+		"parameter": 5
+	},
+	"850101": {
+		"describe": "战斗力系数——血魂印记4",
+		"parameter": 5
+	},
+	"850102": {
+		"describe": "战斗力系数——血魂印记5",
+		"parameter": 5
+	},
+	"850103": {
+		"describe": "战斗力系数——生命值",
+		"parameter": 1
+	},
+	"850104": {
+		"describe": "战斗力系数——攻击力",
+		"parameter": 10
+	},
+	"850105": {
+		"describe": "战斗力系数——防御",
+		"parameter": 1.12
+	},
+	"850106": {
+		"describe": "战斗力系数——无双",
+		"parameter": 0.5
+	},
+	"850107": {
+		"describe": "战斗力系数——攻击速度",
+		"parameter": 0
+	},
+	"850108": {
+		"describe": "战斗力系数——移动速度",
+		"parameter": 0
+	},
+	"850109": {
+		"describe": "战斗力系数——真实伤害",
+		"parameter": 5
+	},
+	"850110": {
+		"describe": "战斗力系数——真实伤害减免",
+		"parameter": 0.56
+	},
+	"850111": {
+		"describe": "战斗力系数——暴击等级",
+		"parameter": 3
+	},
+	"850112": {
+		"describe": "战斗力系数——命中等级",
+		"parameter": 3
+	},
+	"850113": {
+		"describe": "战斗力系数——闪避等级",
+		"parameter": 3
+	},
+	"850114": {
+		"describe": "战斗力系数——暴击伤害",
+		"parameter": 3
+	},
+	"850115": {
+		"describe": "战斗力系数——技能等级",
+		"parameter": 10
+	},
+	"850116": {
+		"describe": "战队形象1",
+		"parameter": "bs-13"
+	},
+	"850117": {
+		"describe": "战队形象2",
+		"parameter": "bs-14"
+	},
+	"850118": {
+		"describe": "战队形象预留",
+		"parameter": 0
+	},
+	"850119": {
+		"describe": "战队形象预留",
+		"parameter": 0
+	},
+	"850120": {
+		"describe": "战队形象预留",
+		"parameter": 0
+	},
+	"850121": {
+		"describe": "战队形象预留",
+		"parameter": 0
+	},
+	"850122": {
+		"describe": "初始银两",
+		"parameter": 5000
+	},
+	"850123": {
+		"describe": "初始元宝",
+		"parameter": 200
+	},
+	"850124": {
+		"describe": "可选英雄1",
+		"parameter": 100001
+	},
+	"850125": {
+		"describe": "可选英雄2",
+		"parameter": 100013
+	},
+	"850126": {
+		"describe": "可选英雄3",
+		"parameter": 100017
+	},
+	"850127": {
+		"describe": "可选英雄预留",
+		"parameter": 0
+	},
+	"850128": {
+		"describe": "可选英雄预留",
+		"parameter": 0
+	},
+	"850129": {
+		"describe": "可选英雄预留",
+		"parameter": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

@@ -1,0 +1,166 @@
+{
+	"730001": {
+		"weapon": 650001,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730002": {
+		"weapon": 650090,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730003": {
+		"weapon": 650004,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730004": {
+		"weapon": 650004,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730005": {
+		"weapon": 650005,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730006": {
+		"weapon": 650006,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730007": {
+		"weapon": 650012,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730008": {
+		"weapon": 650013,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730009": {
+		"weapon": 650093,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730010": {
+		"weapon": 650091,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730011": {
+		"weapon": 650016,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730012": {
+		"weapon": 650017,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730013": {
+		"weapon": 650005,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730014": {
+		"weapon": 650019,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730015": {
+		"weapon": 650020,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730016": {
+		"weapon": 650021,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730017": {
+		"weapon": 650006,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730018": {
+		"weapon": 650023,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730019": {
+		"weapon": 650024,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"730020": {
+		"weapon": 650092,
+		"breastplate": 650007,
+		"leg": 650008,
+		"glove": 650009,
+		"shoe": 650010,
+		"jewelry": 650011
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

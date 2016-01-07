@@ -1,0 +1,51 @@
+{
+	"1": {
+		"itemnum": 10,
+		"weapen_attributenum": 1,
+		"weapen_holenum": 0,
+		"weapen_talenum": 0,
+		"other_attributenum": 1,
+		"other_holenum": 0,
+		"other_talenum": 0
+	},
+	"2": {
+		"itemnum": 25,
+		"weapen_attributenum": 1,
+		"weapen_holenum": 1,
+		"weapen_talenum": 0,
+		"other_attributenum": 1,
+		"other_holenum": 1,
+		"other_talenum": 0
+	},
+	"3": {
+		"itemnum": 50,
+		"weapen_attributenum": 2,
+		"weapen_holenum": 1,
+		"weapen_talenum": 0,
+		"other_attributenum": 2,
+		"other_holenum": 1,
+		"other_talenum": 0
+	},
+	"4": {
+		"itemnum": 100,
+		"weapen_attributenum": 2,
+		"weapen_holenum": 1,
+		"weapen_talenum": 1,
+		"other_attributenum": 3,
+		"other_holenum": 1,
+		"other_talenum": 0
+	},
+	"5": {
+		"itemnum": 0,
+		"weapen_attributenum": 2,
+		"weapen_holenum": 2,
+		"weapen_talenum": 1,
+		"other_attributenum": 3,
+		"other_holenum": 2,
+		"other_talenum": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

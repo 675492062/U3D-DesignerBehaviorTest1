@@ -1,0 +1,516 @@
+{
+	"0": {
+		"instancebag": 0,
+		"energy": 2,
+		"money": 2,
+		"skill_point": 10,
+		"competition": 5,
+		"shop1": 20,
+		"shop2": 20,
+		"shop3": 20
+	},
+	"1": {
+		"instancebag": 2,
+		"energy": 4,
+		"money": 4,
+		"skill_point": 20,
+		"competition": 5,
+		"shop1": 50,
+		"shop2": 50,
+		"shop3": 50
+	},
+	"2": {
+		"instancebag": 4,
+		"energy": 6,
+		"money": 6,
+		"skill_point": 30,
+		"competition": 10,
+		"shop1": 100,
+		"shop2": 100,
+		"shop3": 100
+	},
+	"3": {
+		"instancebag": 6,
+		"energy": 8,
+		"money": 8,
+		"skill_point": 40,
+		"competition": 10,
+		"shop1": 100,
+		"shop2": 100,
+		"shop3": 100
+	},
+	"4": {
+		"instancebag": 8,
+		"energy": 10,
+		"money": 10,
+		"skill_point": 50,
+		"competition": 20,
+		"shop1": 100,
+		"shop2": 100,
+		"shop3": 100
+	},
+	"5": {
+		"instancebag": 10,
+		"energy": 12,
+		"money": 12,
+		"skill_point": 60,
+		"competition": 20,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"6": {
+		"instancebag": 10,
+		"energy": 14,
+		"money": 14,
+		"skill_point": 70,
+		"competition": 30,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"7": {
+		"instancebag": 10,
+		"energy": 16,
+		"money": 16,
+		"skill_point": 80,
+		"competition": 30,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"8": {
+		"instancebag": 10,
+		"energy": 18,
+		"money": 18,
+		"skill_point": 90,
+		"competition": 50,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"9": {
+		"instancebag": 10,
+		"energy": 20,
+		"money": 20,
+		"skill_point": 100,
+		"competition": 50,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"10": {
+		"instancebag": 10,
+		"energy": 22,
+		"money": 22,
+		"skill_point": 110,
+		"competition": 50,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"11": {
+		"instancebag": 10,
+		"energy": 24,
+		"money": 24,
+		"skill_point": 120,
+		"competition": 50,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"12": {
+		"instancebag": 10,
+		"energy": 26,
+		"money": 26,
+		"skill_point": 130,
+		"competition": 50,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"13": {
+		"instancebag": 10,
+		"energy": 28,
+		"money": 28,
+		"skill_point": 140,
+		"competition": 100,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"14": {
+		"instancebag": 10,
+		"energy": 30,
+		"money": 30,
+		"skill_point": 150,
+		"competition": 100,
+		"shop1": 200,
+		"shop2": 200,
+		"shop3": 200
+	},
+	"15": {
+		"instancebag": 10,
+		"energy": 32,
+		"money": 32,
+		"skill_point": 160,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"16": {
+		"instancebag": 10,
+		"energy": 34,
+		"money": 34,
+		"skill_point": 170,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"17": {
+		"instancebag": 10,
+		"energy": 36,
+		"money": 36,
+		"skill_point": 180,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"18": {
+		"instancebag": 10,
+		"energy": 38,
+		"money": 38,
+		"skill_point": 190,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"19": {
+		"instancebag": 10,
+		"energy": 40,
+		"money": 40,
+		"skill_point": 200,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"20": {
+		"instancebag": 10,
+		"energy": 42,
+		"money": 42,
+		"skill_point": 210,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"21": {
+		"instancebag": 10,
+		"energy": 44,
+		"money": 44,
+		"skill_point": 220,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"22": {
+		"instancebag": 10,
+		"energy": 46,
+		"money": 46,
+		"skill_point": 230,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"23": {
+		"instancebag": 10,
+		"energy": 48,
+		"money": 48,
+		"skill_point": 240,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"24": {
+		"instancebag": 10,
+		"energy": 50,
+		"money": 50,
+		"skill_point": 250,
+		"competition": 100,
+		"shop1": 300,
+		"shop2": 300,
+		"shop3": 300
+	},
+	"25": {
+		"instancebag": 10,
+		"energy": 52,
+		"money": 52,
+		"skill_point": 260,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"26": {
+		"instancebag": 10,
+		"energy": 54,
+		"money": 54,
+		"skill_point": 270,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"27": {
+		"instancebag": 10,
+		"energy": 56,
+		"money": 56,
+		"skill_point": 280,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"28": {
+		"instancebag": 10,
+		"energy": 58,
+		"money": 58,
+		"skill_point": 290,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"29": {
+		"instancebag": 10,
+		"energy": 60,
+		"money": 60,
+		"skill_point": 300,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"30": {
+		"instancebag": 10,
+		"energy": 62,
+		"money": 62,
+		"skill_point": 310,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"31": {
+		"instancebag": 10,
+		"energy": 64,
+		"money": 64,
+		"skill_point": 320,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"32": {
+		"instancebag": 10,
+		"energy": 66,
+		"money": 66,
+		"skill_point": 330,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"33": {
+		"instancebag": 10,
+		"energy": 68,
+		"money": 68,
+		"skill_point": 340,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"34": {
+		"instancebag": 10,
+		"energy": 70,
+		"money": 70,
+		"skill_point": 350,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"35": {
+		"instancebag": 10,
+		"energy": 72,
+		"money": 72,
+		"skill_point": 360,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"36": {
+		"instancebag": 10,
+		"energy": 74,
+		"money": 74,
+		"skill_point": 370,
+		"competition": 100,
+		"shop1": 500,
+		"shop2": 500,
+		"shop3": 500
+	},
+	"37": {
+		"instancebag": 10,
+		"energy": 76,
+		"money": 76,
+		"skill_point": 380,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"38": {
+		"instancebag": 10,
+		"energy": 78,
+		"money": 78,
+		"skill_point": 390,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"39": {
+		"instancebag": 10,
+		"energy": 80,
+		"money": 80,
+		"skill_point": 400,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"40": {
+		"instancebag": 10,
+		"energy": 82,
+		"money": 82,
+		"skill_point": 410,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"41": {
+		"instancebag": 10,
+		"energy": 84,
+		"money": 84,
+		"skill_point": 420,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"42": {
+		"instancebag": 10,
+		"energy": 86,
+		"money": 86,
+		"skill_point": 430,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"43": {
+		"instancebag": 10,
+		"energy": 88,
+		"money": 88,
+		"skill_point": 440,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"44": {
+		"instancebag": 10,
+		"energy": 90,
+		"money": 90,
+		"skill_point": 450,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"45": {
+		"instancebag": 10,
+		"energy": 92,
+		"money": 92,
+		"skill_point": 460,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"46": {
+		"instancebag": 10,
+		"energy": 94,
+		"money": 94,
+		"skill_point": 470,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"47": {
+		"instancebag": 10,
+		"energy": 96,
+		"money": 96,
+		"skill_point": 480,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"48": {
+		"instancebag": 10,
+		"energy": 98,
+		"money": 98,
+		"skill_point": 490,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"49": {
+		"instancebag": 10,
+		"energy": 100,
+		"money": 100,
+		"skill_point": 500,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"50": {
+		"instancebag": 10,
+		"energy": 102,
+		"money": 102,
+		"skill_point": 510,
+		"competition": 100,
+		"shop1": 1000,
+		"shop2": 1000,
+		"shop3": 1000
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:16]",
+		"version": "1.0.0"
+	}
+}

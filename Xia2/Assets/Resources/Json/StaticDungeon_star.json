@@ -1,0 +1,62 @@
+{
+	"1": {
+		"type": 1,
+		"name": "击杀{0}个{1}",
+		"parameter1": 4,
+		"parameter2": 1,
+		"parameter3": 0
+	},
+	"2": {
+		"type": 2,
+		"name": "击杀{0}个敌人",
+		"parameter1": 4,
+		"parameter2": 0,
+		"parameter3": 0
+	},
+	"3": {
+		"type": 3,
+		"name": "{0}上阵",
+		"parameter1": 2,
+		"parameter2": 0,
+		"parameter3": 0
+	},
+	"4": {
+		"type": 4,
+		"name": "收集{0}个{1}",
+		"parameter1": 4,
+		"parameter2": 3,
+		"parameter3": 0
+	},
+	"5": {
+		"type": 5,
+		"name": "英雄血量不曾低于{0}%",
+		"parameter1": 4,
+		"parameter2": 0,
+		"parameter3": 0
+	},
+	"6": {
+		"type": 6,
+		"name": "无英雄阵亡",
+		"parameter1": 0,
+		"parameter2": 0,
+		"parameter3": 0
+	},
+	"7": {
+		"type": 4,
+		"name": "救{0}个{1}",
+		"parameter1": 4,
+		"parameter2": 3,
+		"parameter3": 0
+	},
+	"8": {
+		"type": 7,
+		"name": "{0}秒内通关",
+		"parameter1": 4,
+		"parameter2": 0,
+		"parameter3": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

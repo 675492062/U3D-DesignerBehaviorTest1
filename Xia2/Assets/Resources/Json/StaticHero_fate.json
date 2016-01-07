@@ -1,0 +1,40 @@
+{
+	"150001": {
+		"name": "测试缘分夏侯惇",
+		"describe": "测试缘分夏侯惇",
+		"hero_id1": 100017,
+		"hero_id2": 0,
+		"skillid": 0,
+		"attribute_type1": 15,
+		"attribute_int1": 50,
+		"attribute_type2": 17,
+		"attribute_int2": 100,
+		"attribute_type3": 24,
+		"attribute_int3": 30,
+		"attribute_type4": 25,
+		"attribute_int4": 10,
+		"attribute_type5": 0,
+		"attribute_int5": 0
+	},
+	"150002": {
+		"name": "测试缘分张飞",
+		"describe": "测试缘分张飞",
+		"hero_id1": 100001,
+		"hero_id2": 0,
+		"skillid": 0,
+		"attribute_type1": 15,
+		"attribute_int1": 50,
+		"attribute_type2": 17,
+		"attribute_int2": 100,
+		"attribute_type3": 24,
+		"attribute_int3": 30,
+		"attribute_type4": 25,
+		"attribute_int4": 10,
+		"attribute_type5": 0,
+		"attribute_int5": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

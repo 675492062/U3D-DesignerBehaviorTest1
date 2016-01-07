@@ -1,0 +1,61 @@
+{
+	"510001": {
+		"icon": "gem_stk_1",
+		"type": 2,
+		"name": "升星石",
+		"maxcount": 999,
+		"sellprice1": 2000,
+		"sellprice2": 20,
+		"sellprice3": 100,
+		"sell2system": 500,
+		"description": "用于装备升级星数的材料。"
+	},
+	"510002": {
+		"icon": "gem_stk_1",
+		"type": 2,
+		"name": "武斗石材料2",
+		"maxcount": 999,
+		"sellprice1": 2000,
+		"sellprice2": 20,
+		"sellprice3": 100,
+		"sell2system": 500,
+		"description": "武斗石材料2"
+	},
+	"510003": {
+		"icon": "gem_stk_1",
+		"type": 2,
+		"name": "武斗石材料3",
+		"maxcount": 999,
+		"sellprice1": 2000,
+		"sellprice2": 20,
+		"sellprice3": 100,
+		"sell2system": 500,
+		"description": "武斗石材料3"
+	},
+	"510004": {
+		"icon": "gem_stk_1",
+		"type": 2,
+		"name": "战马材料1",
+		"maxcount": 999,
+		"sellprice1": 2000,
+		"sellprice2": 20,
+		"sellprice3": 100,
+		"sell2system": 500,
+		"description": "战马材料1"
+	},
+	"510005": {
+		"icon": "gem_stk_1",
+		"type": 2,
+		"name": "突破丹",
+		"maxcount": 999,
+		"sellprice1": 2000,
+		"sellprice2": 20,
+		"sellprice3": 100,
+		"sell2system": 500,
+		"description": "用于英雄品质突破的丹药"
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}

@@ -1,0 +1,566 @@
+{
+	"450001": {
+		"name": "狂傲之气",
+		"describe": "夏侯惇技能狂傲之气每第3次攻击造成1.5倍伤害",
+		"attribute1_type": 35,
+		"parameter1": 1.5,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 15,
+		"effectid": 0
+	},
+	"450002": {
+		"name": "刚烈之气",
+		"describe": "夏侯惇刚烈之气所带反伤",
+		"attribute1_type": 9,
+		"parameter1": 0.5,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 15,
+		"effectid": 0
+	},
+	"450003": {
+		"name": "刚烈之气",
+		"describe": "夏侯惇刚烈之气所带反伤治疗",
+		"attribute1_type": 36,
+		"parameter1": 1,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 15,
+		"effectid": 0
+	},
+	"450004": {
+		"name": "枭雄之啸",
+		"describe": "曹操技能枭雄之啸忽视目标防御",
+		"attribute1_type": 8,
+		"parameter1": 0.3,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 10,
+		"effectid": 0
+	},
+	"450005": {
+		"name": "狂霸之啸",
+		"describe": "曹操技能狂霸之啸护盾，吸收一定伤害，护盾爆炸时造成伤害",
+		"attribute1_type": 34,
+		"parameter1": 0,
+		"parameter2": 200,
+		"interval": 0,
+		"time": 15,
+		"effectid": 0
+	},
+	"450006": {
+		"name": "沉鱼",
+		"describe": "貂蝉魅惑debuff",
+		"attribute1_type": 26,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 10,
+		"effectid": "ef_buff_meihuo"
+	},
+	"450007": {
+		"name": "沉鱼",
+		"describe": "貂蝉魅惑易伤debuff",
+		"attribute1_type": 22,
+		"parameter1": 0.1,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 8,
+		"effectid": 0
+	},
+	"450008": {
+		"name": "巨锤之轮",
+		"describe": "董卓降低防御debuff",
+		"attribute1_type": 8,
+		"parameter1": 0.15,
+		"parameter2": "",
+		"interval": 0,
+		"time": 15,
+		"effectid": 0
+	},
+	"450009": {
+		"name": "董卓2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450010": {
+		"name": "董卓3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450011": {
+		"name": "董卓4",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450012": {
+		"name": "董卓5",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450013": {
+		"name": "郭嘉1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450014": {
+		"name": "郭嘉2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450015": {
+		"name": "黄月英1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450016": {
+		"name": "黄月英2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450017": {
+		"name": "刘备1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450018": {
+		"name": "刘备2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450019": {
+		"name": "吕蒙1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450020": {
+		"name": "吕蒙2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450021": {
+		"name": "吕蒙3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450022": {
+		"name": "司马师1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450023": {
+		"name": "司马懿1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450024": {
+		"name": "司马懿2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450025": {
+		"name": "司马懿3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450026": {
+		"name": "司马懿4",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450027": {
+		"name": "孙权1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450028": {
+		"name": "孙权2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450029": {
+		"name": "孙权3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450030": {
+		"name": "孙尚香1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450031": {
+		"name": "天心箭矢",
+		"describe": "孙尚香技能天心箭矢所带buff，束缚",
+		"attribute1_type": 13,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 5,
+		"effectid": 0
+	},
+	"450032": {
+		"name": "扑虎",
+		"describe": "敌人减速",
+		"attribute1_type": 17,
+		"parameter1": -0.25,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 5,
+		"effectid": "ef_buff_jiansu"
+	},
+	"450033": {
+		"name": "扑虎殴狼",
+		"describe": "能量自动回复",
+		"attribute1_type": 38,
+		"parameter1": 0,
+		"parameter2": 3,
+		"interval": 0,
+		"time": 8,
+		"effectid": 0
+	},
+	"450034": {
+		"name": "扑虎殴狼",
+		"describe": "下几次技能不消耗mp",
+		"attribute1_type": 37,
+		"parameter1": 0,
+		"parameter2": 2,
+		"interval": 0,
+		"time": 10,
+		"effectid": 0
+	},
+	"450035": {
+		"name": "虎狼幻影",
+		"describe": "太史慈虎狼幻影所带二连击",
+		"attribute1_type": 12,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 8,
+		"effectid": 0
+	},
+	"450036": {
+		"name": "王允1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450037": {
+		"name": "王允2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450038": {
+		"name": "王允3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450039": {
+		"name": "王允4",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450040": {
+		"name": "张宝1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450041": {
+		"name": "张宝2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450042": {
+		"name": "张宝3",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450043": {
+		"name": "张宝4",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450044": {
+		"name": "张宝5",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450045": {
+		"name": "张春华1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450046": {
+		"name": "张春华2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450047": {
+		"name": "燕人之吼",
+		"describe": "敌人被眩晕",
+		"attribute1_type": 16,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 3,
+		"effectid": "ef_buff_xuanyun"
+	},
+	"450048": {
+		"name": "燕人之烈",
+		"describe": "张飞燕人之烈所带增加攻击力",
+		"attribute1_type": 32,
+		"parameter1": 0.3,
+		"parameter2": 50,
+		"interval": 0,
+		"time": 5,
+		"effectid": 0
+	},
+	"450049": {
+		"name": "燕人之煞",
+		"describe": "张飞增加攻击速度",
+		"attribute1_type": 10,
+		"parameter1": 0.1,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 10,
+		"effectid": 0
+	},
+	"450050": {
+		"name": "张辽1",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450051": {
+		"name": "张辽2",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450052": {
+		"name": "奇火术",
+		"describe": "灼烧",
+		"attribute1_type": "",
+		"parameter1": "",
+		"parameter2": "",
+		"interval": 2,
+		"time": 10,
+		"effectid": "ef_buff_zhuoshao"
+	},
+	"450053": {
+		"name": "八卦术",
+		"describe": "八卦术增益，攻击力提升",
+		"attribute1_type": 32,
+		"parameter1": 0,
+		"parameter2": 10,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"450054": {
+		"name": "八卦术",
+		"describe": "八卦书减益，受到伤害提升",
+		"attribute1_type": 22,
+		"parameter1": 0.15,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": "ef_buff_zuzhou"
+	},
+	"450055": {
+		"name": "御风术",
+		"describe": "御风术减速",
+		"attribute1_type": 17,
+		"parameter1": -0.25,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": "ef_buff_jiansu"
+	},
+	"450056": {
+		"name": "六道天书",
+		"describe": 0,
+		"attribute1_type": 1,
+		"parameter1": 0,
+		"parameter2": 0,
+		"interval": 0,
+		"time": 1,
+		"effectid": 0
+	},
+	"-1": {
+		"time": "2014-12-26[16:32:15]",
+		"version": "1.0.0"
+	}
+}
